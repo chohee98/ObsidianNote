@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++_UE5/World Setting.md",
+                "file": "ETC/etc.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++_Basic/6. 객체지향/1. 객체 지향의 시작.md"
+                "file": "ETC/etc.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++_Basic/6. 객체지향/1. 객체 지향의 시작.md",
+                "file": "ETC/etc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++_Basic/6. 객체지향/1. 객체 지향의 시작.md",
+                "file": "ETC/etc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,18 +255,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "256aa79973ed8d98",
+  "active": "7ceb066fb7e2b989",
   "lastOpenFiles": [
+    "C++_UE5/World Setting.md",
+    "ETC/etc.md",
+    "ETC/Smilegate_Epic.md",
+    "C++_Basic/6. 객체지향/1. 객체 지향의 시작.md",
     "Spaces",
     "C++_UE5/Interface.md",
     "C++_UE5/Construction Script.md",
-    "C++_UE5/World Setting.md",
     "C++_UE5/Event Dispatcher.md",
     "C++_UE5/Actor Component.md",
     "C++_Basic/Attached File/Pasted image 20240122101617.png",
     "C++_Basic/6. 객체지향/2. 생성자와 소멸자.md",
     "C++_Basic/Attached File/Pasted image 20240122093756.png",
-    "C++_Basic/6. 객체지향/1. 객체 지향의 시작.md",
     "C++_Basic/5. 포인터/6. 파일 분할 관리.md",
     "C++_Basic/Attached File/Pasted image 20240122090125.png",
     "C++_Basic/Attached File/Pasted image 20240122085805.png",
@@ -295,7 +297,6 @@
     "C++_Basic/3. 흐름제어/1. 흐름 제어.md",
     "C++_Basic/2. Data/3. 데이터 저장.md",
     "C++_Basic/2. Data/1. 자료형.md",
-    "C++_Basic/2. Data/2. 데이터 연산.md",
     "C++_Basic/5. 포인터",
     "C++_Basic/4. 함수",
     "C++_UE5/test.txt",
