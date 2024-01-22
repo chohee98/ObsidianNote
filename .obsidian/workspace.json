@@ -1,0 +1,316 @@
+{
+  "main": {
+    "id": "7fe9d3d31bae5c48",
+    "type": "split",
+    "children": [
+      {
+        "id": "04c3ced6c1e483ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad35a3ba900d4aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++_Basic/6. 객체지향/1. 객체 지향의 시작.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfd356087600eae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++_UE5/World Setting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0da93ee4c9b1dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++_UE5/World Setting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "140a35073059bddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++_UE5/Interface.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c639862076fc12f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++_UE5/Interface.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ceb066fb7e2b989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++_UE5/World Setting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59d6532eeb9da599",
+    "type": "split",
+    "children": [
+      {
+        "id": "882c8ee0da4d2d24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "256aa79973ed8d98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3060be1163d66d55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1953919fd75873b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c8de1b78d1de0db",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8048bfc0f022ac5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56871f98b1cf8bb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "98bfdaac33217cdb",
+        "type": "tabs",
+        "dimension": 33.98247322297955,
+        "children": [
+          {
+            "id": "9f00ef177b70a5c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b498b1e54d54120",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++_Basic/6. 객체지향/1. 객체 지향의 시작.md"
+              }
+            }
+          },
+          {
+            "id": "ecb0cb83919a0ea7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "35e409cd2abccd41",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-gpt",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f9552e55fc64571",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google",
+              "state": {}
+            }
+          },
+          {
+            "id": "857fd932a5db0724",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++_Basic/6. 객체지향/1. 객체 지향의 시작.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8359bc4f353320cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++_Basic/6. 객체지향/1. 객체 지향의 시작.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5e21fbfb1473214f",
+        "type": "tabs",
+        "dimension": 66.01752677702045,
+        "children": [
+          {
+            "id": "e99c085a89d1f4f7",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-gpt",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 414.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "256aa79973ed8d98",
+  "lastOpenFiles": [
+    "Spaces",
+    "C++_UE5/Interface.md",
+    "C++_UE5/Construction Script.md",
+    "C++_UE5/World Setting.md",
+    "C++_UE5/Event Dispatcher.md",
+    "C++_UE5/Actor Component.md",
+    "C++_Basic/Attached File/Pasted image 20240122101617.png",
+    "C++_Basic/6. 객체지향/2. 생성자와 소멸자.md",
+    "C++_Basic/Attached File/Pasted image 20240122093756.png",
+    "C++_Basic/6. 객체지향/1. 객체 지향의 시작.md",
+    "C++_Basic/5. 포인터/6. 파일 분할 관리.md",
+    "C++_Basic/Attached File/Pasted image 20240122090125.png",
+    "C++_Basic/Attached File/Pasted image 20240122085805.png",
+    "C++_Basic/Attached File/Pasted image 20240122085238.png",
+    "C++_Basic/5. 포인터/5. 실습.md",
+    "C++_Basic/5. 포인터/3. 배열.md",
+    "C++_Basic/5. 포인터/1. 포인터.md",
+    "Spaces/Home",
+    "C++_Basic/Attached File/파일 분할 관리.png",
+    "C++_Basic/6. 객체지향",
+    "C++_Basic/Attached File/UnrealWorld.png",
+    "C++_Basic/Attached File/Pasted image 20240117143151.png",
+    "C++_Basic/Attached File/Pasted image 20240114153656.png",
+    "C++_Basic/Attached File/Pasted image 20240114134447.png",
+    "C++_Basic/5. 포인터/2. 참조 기초.md",
+    "C++_Basic/Spaces/Smilegate_Epic.md",
+    "C++_Basic/Spaces/무제 파일.canvas",
+    "C++_Basic/4. 함수/3. 실습.md",
+    "C++_Basic/5. 포인터/5. 포인터 마무리.md",
+    "C++_Basic/5. 포인터/4. 다중포인터 & 다차원배열.md",
+    "2024-01-20.md",
+    "C++_Basic/4. 함수/2. 스택 프레임.md",
+    "C++_Basic/4. 함수/1. 함수.md",
+    "C++_Basic/3. 흐름제어/2. 열거형.md",
+    "C++_Basic/3. 흐름제어/3. 실습.md",
+    "C++_Basic/3. 흐름제어/1. 흐름 제어.md",
+    "C++_Basic/2. Data/3. 데이터 저장.md",
+    "C++_Basic/2. Data/1. 자료형.md",
+    "C++_Basic/2. Data/2. 데이터 연산.md",
+    "C++_Basic/5. 포인터",
+    "C++_Basic/4. 함수",
+    "C++_UE5/test.txt",
+    "C++_UE5",
+    "C++_Basic/Spaces",
+    "C++_Basic/2. Data",
+    "C++_Basic/1. AssemblyLanguage"
+  ]
+}
