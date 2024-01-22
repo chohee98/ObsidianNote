@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETC/etc.md",
+                "file": "C++_Basic/6. 객체지향/2. 생성자와 소멸자.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,6 +133,14 @@
               "type": "mk-path-view",
               "state": {}
             }
+          },
+          {
+            "id": "57b4492876d98d98",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -166,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETC/etc.md"
+                "file": "C++_Basic/6. 객체지향/2. 생성자와 소멸자.md"
               }
             }
           },
@@ -200,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETC/etc.md",
+                "file": "C++_Basic/6. 객체지향/2. 생성자와 소멸자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETC/etc.md",
+                "file": "C++_Basic/6. 객체지향/2. 생성자와 소멸자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,24 +265,26 @@
   },
   "active": "7ceb066fb7e2b989",
   "lastOpenFiles": [
+    "C++_Basic/5. 포인터/2. 참조 기초.md",
+    "C++_Basic/5. 포인터/3. 배열.md",
+    "C++_Basic/5. 포인터/4. 다중포인터 & 다차원배열.md",
+    "C++_Basic/5. 포인터/5. 실습.md",
+    "C++_Basic/5. 포인터/6. 파일 분할 관리.md",
+    "C++_Basic/6. 객체지향/1. 객체 지향의 시작.md",
+    "C++_Basic/6. 객체지향/2. 생성자와 소멸자.md",
     "C++_UE5/World Setting.md",
     "ETC/etc.md",
     "ETC/Smilegate_Epic.md",
-    "C++_Basic/6. 객체지향/1. 객체 지향의 시작.md",
     "Spaces",
     "C++_UE5/Interface.md",
     "C++_UE5/Construction Script.md",
     "C++_UE5/Event Dispatcher.md",
     "C++_UE5/Actor Component.md",
     "C++_Basic/Attached File/Pasted image 20240122101617.png",
-    "C++_Basic/6. 객체지향/2. 생성자와 소멸자.md",
     "C++_Basic/Attached File/Pasted image 20240122093756.png",
-    "C++_Basic/5. 포인터/6. 파일 분할 관리.md",
     "C++_Basic/Attached File/Pasted image 20240122090125.png",
     "C++_Basic/Attached File/Pasted image 20240122085805.png",
     "C++_Basic/Attached File/Pasted image 20240122085238.png",
-    "C++_Basic/5. 포인터/5. 실습.md",
-    "C++_Basic/5. 포인터/3. 배열.md",
     "C++_Basic/5. 포인터/1. 포인터.md",
     "Spaces/Home",
     "C++_Basic/Attached File/파일 분할 관리.png",
@@ -283,12 +293,10 @@
     "C++_Basic/Attached File/Pasted image 20240117143151.png",
     "C++_Basic/Attached File/Pasted image 20240114153656.png",
     "C++_Basic/Attached File/Pasted image 20240114134447.png",
-    "C++_Basic/5. 포인터/2. 참조 기초.md",
     "C++_Basic/Spaces/Smilegate_Epic.md",
     "C++_Basic/Spaces/무제 파일.canvas",
     "C++_Basic/4. 함수/3. 실습.md",
     "C++_Basic/5. 포인터/5. 포인터 마무리.md",
-    "C++_Basic/5. 포인터/4. 다중포인터 & 다차원배열.md",
     "2024-01-20.md",
     "C++_Basic/4. 함수/2. 스택 프레임.md",
     "C++_Basic/4. 함수/1. 함수.md",
