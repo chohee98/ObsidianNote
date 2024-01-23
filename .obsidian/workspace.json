@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d0ce49d764313f62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++_Basic/6. 객체지향/3. OOP 속성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++_Basic/6. 객체지향/2. 생성자와 소멸자.md"
+                "file": "C++_Basic/6. 객체지향/3. OOP 속성.md"
               }
             }
           },
@@ -208,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++_Basic/6. 객체지향/2. 생성자와 소멸자.md",
+                "file": "C++_Basic/6. 객체지향/3. OOP 속성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++_Basic/6. 객체지향/2. 생성자와 소멸자.md",
+                "file": "C++_Basic/6. 객체지향/3. OOP 속성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,9 +275,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7ceb066fb7e2b989",
+  "active": "d0ce49d764313f62",
   "lastOpenFiles": [
     "C++_Basic/6. 객체지향/1. 객체 지향의 시작.md",
+    "C++_Basic/6. 객체지향/3. OOP 속성.md",
     "C++_Basic/6. 객체지향/2. 생성자와 소멸자.md",
     "C++_Basic/5. 포인터/2. 참조 기초.md",
     "C++_Basic/5. 포인터/3. 배열.md",
@@ -304,7 +317,6 @@
     "C++_Basic/3. 흐름제어/3. 실습.md",
     "C++_Basic/3. 흐름제어/1. 흐름 제어.md",
     "C++_Basic/2. Data/3. 데이터 저장.md",
-    "C++_Basic/2. Data/1. 자료형.md",
     "C++_Basic/5. 포인터",
     "C++_Basic/4. 함수",
     "C++_UE5/test.txt",
