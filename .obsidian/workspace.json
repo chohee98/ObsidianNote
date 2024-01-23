@@ -115,22 +115,15 @@
             }
           },
           {
-            "id": "f4b116ffde69f44e",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "57b4492876d98d98",
+            "id": "77da351c507a00ac",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
