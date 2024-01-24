@@ -72,7 +72,7 @@ AIngameGameMode::AIngameGameMode()
 
 
 ### HUD 클래스
-```
+```cpp
 #include "CoreMinimal.h"
 #include "GameFramework/HUD.h"
 #include "IngameHUD.generated.h"
@@ -88,7 +88,7 @@ protected:
 };
 ```
 
-```
+```cpp
 #include "IngameHUD.h"
 
 void AIngameHUD::BeginPlay()
