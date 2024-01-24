@@ -36,7 +36,7 @@
 3. Player Controller에 의해 Player Controller가 지정된 Pawn에 빙의하려 함
 
 ### IngameGameMode.h
-```
+```cpp
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
 #include "IngameGameMode.generated.h"
@@ -51,7 +51,7 @@ public:
 };
 ```
 ### IngameGameMode.c
-```
+```cpp
 #include "IngameGameMode.h"
 #include "IngameHUD.h"
 #include "IngamePlayerController.h"
