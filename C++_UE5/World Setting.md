@@ -35,7 +35,7 @@
 2. Game Mode에 의해 Player Pawn 생성
 3. Player Controller에 의해 Player Controller가 지정된 Pawn에 빙의하려 함
 
-### 게임모드
+### IngameGameMode.h
 ```
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
@@ -50,7 +50,7 @@ public:
 	AIngameGameMode();	
 };
 ```
-
+### IngameGameMode.c
 ```
 #include "IngameGameMode.h"
 #include "IngameHUD.h"
@@ -58,12 +58,11 @@ public:
 
 AIngameGameMode::AIngameGameMode()
 {
-	// set default pawn class to our Blueprinted character
 	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/RPG/Character/BP_IngameCharacter"));
 	
 	if (PlayerPawnBPClass.Class != NULL)
 	{
-		DefaultPawnClass = PlayerPawnBPClass.Class;
+		DefaultPawnClass = PlayerPawnBPClass.Class;   // Default Pawn 설정 (BP)
 	}
 	
 	HUDClass = AIngameHUD::StaticClass();     // HUD 클래스
