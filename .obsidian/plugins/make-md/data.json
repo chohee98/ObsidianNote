@@ -79,7 +79,7 @@
   "releaseNotesPrompt": 0.815,
   "enableDefaultSpaces": false,
   "enableTagSpaces": true,
-  "enableHomeSpace": true,
+  "enableHomeSpace": false,
   "showSpacePinIcon": true,
   "minimalFix": false,
   "experimental": false,
