@@ -4,11 +4,11 @@
   "highlighters": {
     "Blue": "#0E4F9FA6",
     "Orange": "#FFAB45CF",
-    "Red": "#FF898996"
+    "Purple": "#824CB496"
   },
   "highlighterOrder": [
     "Blue",
     "Orange",
-    "Red"
+    "Purple"
   ]
 }
