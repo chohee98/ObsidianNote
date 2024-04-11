@@ -15,3 +15,9 @@ Commit Message Type
 	refactor : 기능의 변화가 아닌 코드 리팩터링 ex) 변수 이름 변경
 	test : 테스트 코드 추가/수정
 	release : 버전 릴리즈
+
+
+출처
+	`C++_Basic` : [Rookies님 강의 (인프런)]
+	`C++_DataStructure-Algorithm` : [Rookies님 강의 (인프런)]
+	`DataStructure-Algorithm of C` : [이것이 자료구조+알고리즘이다 (한빛미디어)]
